@@ -1,0 +1,10 @@
+"use strict";
+let firstname = "Hanzla";
+let age = 20;
+let condition = true;
+firstname = "Asif";
+age = 25;
+condition = false;
+console.log(firstname);
+console.log(age);
+console.log(condition);
